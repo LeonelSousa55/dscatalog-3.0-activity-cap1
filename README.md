@@ -1,4 +1,4 @@
-## :boy: &nbsp;Sobre mim
+## :boy: Sobre mim
 * :star: Meu nome é Leonel de Sousa Siqueira.
 * :briefcase: Trabalho com desenvolvimento de sistemas a mais de 8 anos.
 * :mortar_board: Sou formado em engenharia de computação/software, [UniEVANGÉLICA](https://www4.unievangelica.edu.br/).
