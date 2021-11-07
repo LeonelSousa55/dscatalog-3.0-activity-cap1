@@ -13,17 +13,20 @@
 
 ## :rocket: Minhas Skills
 ### Experiências com desenvolvimentos
-![Java](https://img.shields.io/badge/-Java-333333?style=plastic&logo=Java&logoColor=007396)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=plastic&logo=postgresql)
-![Spring](https://img.shields.io/badge/-Spring-333333?style=plastic&logo=spring)
-![React](https://img.shields.io/badge/-React-333333?style=plastic&logo=react)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=plastic&logo=mysql)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+![Spring](https://img.shields.io/badge/-Spring-333333?style=flat&logo=spring)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ### IDEs de Desenvolvimento
 ![NetBeans](https://img.shields.io/badge/-NetBeans-333333?style=flat&logo=apachenetbeanside)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ### DevOps
-![Git](https://img.shields.io/badge/-Git-333333?style=plastic&logo=git)
-![GitLab](https://img.shields.io/badge/-GitLab-333333?style=social&logo=gitlab)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitLab](https://img.shields.io/badge/-GitLab-333333?style=flat&logo=gitlab)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=social&logo=github)
 
+## :rocket: Redes Sociais
+![Gmail](https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=0000&logo=gmail&logoColor=white&link=leonel55souas@gmail.com)
+![Linkedin](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonel-de-sousa-siqueira-85866749/)
