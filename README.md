@@ -28,8 +28,8 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=social&logo=github)
 
 ## :earth_americas: Onde me encontrar
-[![Gmail](https://img.shields.io/badge/-Gmail-f4ffff?style=flat-square&labelColor=006bed&logo=Gmail&logoColor=white)](mailto:leonel55souas@gmail.com)
-[![Linkedin](https://img.shields.io/badge/-Linkedin-f4ffff?style=flat-square&labelColor=blue&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/leonel-de-sousa-siqueira-85866749/)
-[![Instagram](https://img.shields.io/badge/-Instagram-f4ffff?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white)](https://www.instagram.com/leonelsousas/)
-[![Linkedin](https://img.shields.io/badge/-Facebook-f4ffff?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white)](https://www.facebook.com/leonel.siqueira.395/)
-[![Youtube](https://img.shields.io/badge/-Youtube-f4ffff?style=flat-square&labelColor=ff0020&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCTtQi-lpQU-KjTjdCsjKyhQ)
+[![Gmail](https://img.shields.io/badge/-Gmail-d3d3d3?style=flat-square&labelColor=006bed&logo=Gmail&logoColor=white)](mailto:leonel55souas@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-Linkedin-d3d3d3?style=flat-square&labelColor=blue&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/leonel-de-sousa-siqueira-85866749/)
+[![Instagram](https://img.shields.io/badge/-Instagram-d3d3d3?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white)](https://www.instagram.com/leonelsousas/)
+[![Linkedin](https://img.shields.io/badge/-Facebook-d3d3d3?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white)](https://www.facebook.com/leonel.siqueira.395/)
+[![Youtube](https://img.shields.io/badge/-Youtube-d3d3d3?style=flat-square&labelColor=ff0020&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCTtQi-lpQU-KjTjdCsjKyhQ)
