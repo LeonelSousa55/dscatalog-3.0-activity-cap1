@@ -1,7 +1,8 @@
 ## :boy: &nbsp;Sobre mim
 * :star: Meu nome é Leonel de Sousa Siqueira.
-* :mortar_board: Sou formado em engenharia de computação/software, [UniEVANGÉLICA](https://www4.unievangelica.edu.br/).
 * :briefcase: Trabalho com desenvolvimento de sistemas a mais de 8 anos.
+* :mortar_board: Sou formado em engenharia de computação/software, [UniEVANGÉLICA](https://www4.unievangelica.edu.br/).
+
 
 ## :snowflake: &nbsp;Sobre o projeto
 ### Esse projeto se refere a atividade do BootCamp do Nélio Alves versão 3.0, capítulo 1.
