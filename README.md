@@ -1,7 +1,10 @@
-## :woman: &nbsp;Sobre mim
+## :boy: &nbsp;Sobre mim
+* :star: Meu nome é Leonel de Sousa Siqueira.
+* :mortar_board: Sou formado em engenharia de computação/software, [UniEVANGÉLICA](https://www4.unievangelica.edu.br/).
+* :briefcase: Trabalho com desenvolvimento de sistema.
 
-
-## Esse projeto se refere a atividade do BootCamp do Nélio Alves versão 3.0, capítulo 1.
+## :snowflake: &nbsp;Sobre o projeto
+### Esse projeto se refere a atividade do BootCamp do Nélio Alves versão 3.0, capítulo 1.
 ### Pré-requisitos para a execução desse projeto
 * Instalar o [JAVA](https://www.oracle.com/br/java/technologies/javase/javase8-archive-downloads.html) na sua máquina.
 * Usar uma IDE de sua preferência que tenha suporte ao [MAVEN](https://maven.apache.org/), esse projeto foi usado a IDE [Spring Tools 4 for Eclipse](https://spring.io/tools).
