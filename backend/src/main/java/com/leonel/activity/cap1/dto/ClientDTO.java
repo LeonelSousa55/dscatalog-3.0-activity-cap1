@@ -8,7 +8,7 @@ import com.leonel.activity.cap1.entities.Client;
 public class ClientDTO implements Serializable {
 	private static final long serialVersionUID = 1L;
 
-	private Integer id;
+	private Long id;
 	private String name;
 	private String cpf;
 	private Double income;
@@ -18,7 +18,7 @@ public class ClientDTO implements Serializable {
 	public ClientDTO() {
 	}
 
-	public ClientDTO(Integer id, String name, String cpf, Double income, Instant birthDate, Integer children) {
+	public ClientDTO(Long id, String name, String cpf, Double income, Instant birthDate, Integer children) {
 		this.id = id;
 		this.name = name;
 		this.cpf = cpf;
@@ -36,11 +36,11 @@ public class ClientDTO implements Serializable {
 		this.children = entity.getChildren();
 	}
 
-	public Integer getId() {
+	public Long getId() {
 		return id;
 	}
 
-	public void setId(Integer id) {
+	public void setId(Long id) {
 		this.id = id;
 	}
 
