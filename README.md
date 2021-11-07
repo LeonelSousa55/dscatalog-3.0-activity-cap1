@@ -27,6 +27,10 @@
 ![GitLab](https://img.shields.io/badge/-GitLab-333333?style=flat&logo=gitlab)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=social&logo=github)
 
-## :rocket: Redes Sociais
+## :earth_americas: Onde me encontrar
 ![Gmail](https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=0000&logo=gmail&logoColor=white&link=leonel55souas@gmail.com)
 ![Linkedin](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonel-de-sousa-siqueira-85866749/)
+
+[![Linkedin: SEU NOME](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/leonel-de-sousa-siqueira-85866749/)
+[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:leonel55souas@gmail.com)
+[![GitHub]( https://img.shields.io/github/followers/LeonelSousa55?label=follow&style=social)](https://github.com/LeonelSousa55)
