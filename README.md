@@ -23,8 +23,8 @@
 ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ### DevOps
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitLab](https://img.shields.io/badge/-GitLab-333333?style=flat&logo=gitlab)
+![Git](https://img.shields.io/badge/-Git-333333?style=social&logo=git)
+![GitLab](https://img.shields.io/badge/-GitLab-333333?style=social&logo=gitlab)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=social&logo=github)
 
 ## :earth_americas: Onde me encontrar
